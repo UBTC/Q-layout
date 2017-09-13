@@ -59,7 +59,7 @@ keycode  61 = period greater period greater
 !!keycode  51 = backslash bar backslash bar
 !!keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
 !!keycode  65 = space Tab space Tab
-keycode  66 = Escape BackSpace Escape BackSpace
+keycode  66 = Escape Escape Escape Escape
 clear lock
 !!keycode   9 = Caps_Lock NoSymbol Caps_Lock
 
