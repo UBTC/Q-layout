@@ -6,7 +6,6 @@ You will find it quit easy to learn and comfortable to use.
 
 To use it,
 - GUI : `xmodmap Q.xmodmap`
-- CLI : `sudo loadkeys ./Q-iso15.kmap`
-
+- CLI : `sudo loadkeys Q-iso15.kmap`
 
 <img src="Q-layout.jpg" />
