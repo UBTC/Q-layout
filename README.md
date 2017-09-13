@@ -9,4 +9,4 @@ To use it,
 - CLI : `sudo loadkeys ./Q-iso15.kmap`
 
 
-<img alt="Maputnik" src="src/img/maputnik.png" />
+<img src="Q-layout.jpg" />
