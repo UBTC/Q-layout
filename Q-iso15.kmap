@@ -9,24 +9,24 @@ include "linux-with-alt-and-altgr"
 strings as usual
 # M. Wang, China
 
-# - = 1 2 3 ... 9 0 `
+# ` 1 2 3 ... 9 0 - =
 # W E R T Y Q U I O P
 # F D S A ; J H L K G
 # Z X C V / B N M , .
 
-keycode  41 = minus underscore minus underscore
-keycode   2 = equal plus equal plus
-keycode   3 = one exclam one exclam
-keycode   4 = two at two at
-keycode   5 = three numbersign three numbersign
-keycode   6 = four dollar four dollar
-keycode   7 = five percent five percent
-keycode   8 = six asciicircum six asciicircum
-keycode   9 = seven ampersand seven ampersand
-keycode  10 = eight asterisk eight asterisk
-keycode  11 = nine parenleft nine parenleft
-keycode  12 = zero parenright zero parenright
-keycode  13 = grave asciitilde grave asciitilde
+keycode  41 = grave asciitilde grave asciitilde
+keycode   2 = one exclam one exclam
+keycode   3 = two at two at
+keycode   4 = three numbersign three numbersign
+keycode   5 = four dollar four dollar
+keycode   6 = five percent five percent
+keycode   7 = six asciicircum six asciicircum
+keycode   8 = seven ampersand seven ampersand
+keycode   9 = eight asterisk eight asterisk
+keycode  10 = nine parenleft nine parenleft
+keycode  11 = zero parenright zero parenright
+keycode  12 = minus underscore minus underscore
+keycode  13 = equal plus equal plus
 
 keycode  16 = w W w W
 keycode  17 = e E e E

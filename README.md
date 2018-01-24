@@ -8,4 +8,8 @@ To use it,
 - GUI : `xmodmap Q.xmodmap`
 - CLI : `sudo loadkeys Q-iso15.kmap`
 
-<img src="Q-layout.jpg" />
+```
+W E R T Y Q U I O P
+F D S A ; J H L K G
+Z X C V / B N M , .
+```
